@@ -35,13 +35,14 @@
 ---
 
 <div align="center">
-  <img src="assets/bigthree.jpg" alt="bigthree" style="max-width:85%;height:auto;display:block;margin:auto;" />
+  <img src="assets/bigthree.jpg" alt="bigthree" />
 </div>
 
-<div align="center" style="margin-top: 1em;">
-  <blockquote style="font-size:1.2em;font-style:italic;">If at first, you don’t succeed, you must be a programmer.</blockquote>
-</div>
+<div align="center">
 
-<div align="center" style="margin-top: 2em;">
-  <p style="font-size:1.1em;">Thank you, hope my projects helped you in anyway.</p>
+<blockquote><tt>If at first, you don’t succeed, you must be a programmer.</tts></blockquote>
+
+</div>
+<div align="center">
+  <em>Thank you, hope my projects helped you in anyway.</em> 🥂
 </div>
