@@ -20,8 +20,8 @@
 
 ## devops
 
-| Project | Description | Technologies |
-| ------- | ----------- | ------------ |
+| Project                                                         | Description                                                                     | Technologies              |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
 | [Minikube](https://github.com/puri-adityakumar/minikube_nodejs) | A simple Express.js application deployed to Kubernetes using Minikube and Helm. | expressjs, k8s, helmchart |
 
 ## misc
@@ -32,6 +32,16 @@
 | [text to image diffusion](https://github.com/puri-adityakumar/text_to_image-diffusion) | A customizable tool for generating AI images using diffusion models in Google Colab.                                                    | ipynb, tensorflow, stable diffusion |
 | [BRUTAGRAM](https://github.com/puri-adityakumar/brutagram-social)                      | BRUTAGRAM IS A BRUTALIST SOCIAL MEDIA PLATFORM. IT EMBRACES STARK CONTRASTS, BOLD TYPOGRAPHY, AND RAW FUNCTIONALITY.                    | nodejs, expressjs, ejs, mongodb     |
 
-
 ---
 
+<div align="center">
+  <img src="assets/bigthree.jpg" alt="bigthree" style="max-width:85%;height:auto;display:block;margin:auto;" />
+</div>
+
+<div align="center" style="margin-top: 1em;">
+  <blockquote style="font-size:1.2em;font-style:italic;">If at first, you don’t succeed, you must be a programmer.</blockquote>
+</div>
+
+<div align="center" style="margin-top: 2em;">
+  <p style="font-size:1.1em;">Thank you, hope my projects helped you in anyway.</p>
+</div>
