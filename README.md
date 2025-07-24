@@ -39,8 +39,10 @@
 </div>
 
 <div align="center">
-  <tt>If at first you don't succeed, you're probably debugging.</tt>
+  <h3><em>"If at first you don't succeed, you're probably debugging."</em></h3>
 </div>
+
+<br>
 
 <div align="center">
   <em>Thank you, hope my projects helped you in anyway.</em> 🥂
