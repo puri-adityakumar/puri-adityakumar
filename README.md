@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-   <tt>&nbsp;proof of work&nbsp;</tt> <img src="assets/cat.gif" alt="Cat GIF" width="30">
+   <code>&nbsp;proof of work&nbsp;</code> <img src="assets/cat.gif" alt="Cat GIF" width="30">
   </h1>
   <p>
     <em>about me: engineer, i build stuff, web2, web3, and devops.</em>
