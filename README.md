@@ -1,36 +1,36 @@
 <div align="center">
   <h1>
-   <code>&nbsp;proof of work&nbsp;</code> <img src="assets/cat.gif" alt="Cat GIF" width="30">
+   <img src="assets/GojoFingerGuns.png" alt="Cat GIF" width="30"> <code>&nbsp;proof of work&nbsp;</code> <img src="assets/cat.gif" alt="Cat GIF" width="35">
   </h1>
   <p>
-    <em>about me: engineer, i build stuff, web2, web3, and devops.</em>
+    <em>About me: Engineer who builds stuff across Web2, Web3, and DevOps.</em>
   </p>
 </div>
 
-## webapps
+## 🌐 webapps
 
 | Project                                                                  | Description                                                                                                                                       | Technologies                                  |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [gitcompat](https://github.com/puri-adityakumar/gitcompat)               | analyzes github developer compatibility for pair programming                                                                                      | Nextjs, TS, Gemini                            |
-| [eBook Lib](https://github.com/puri-adityakumar/eBookLib-RestAPI)        | provides a backend service for managing an eBook library, including user authentication, book management, and file uploads.                       | Node.js, Express.js, TypeScript, MongoDB      |
-| [Blogfolio](https://adityawaslost.ninja/)                                | a minimal portfolio-blog webapp, using notion as CMS                                                                                              | Nextjs, Framer motion, Notion API             |
-| [pdfbot](https://github.com/puri-adityakumar/pdfbot)                     | (RAG Chatbot) it's a full-stack application that enables users to upload PDF documents and ask questions about their content in natural language. | Reactjs, FastAPI, WebSocket, Gemini, ChromaDB |
-| [Color Norm](https://github.com/puri-adityakumar/major_project_code_mca) | Final year major research project on color normalization techinque on histopathlogical images                                                     | Python, OpenCV, NumPy                         |
-| [FolkRhythm](https://github.com/puri-adityakumar/folkrhythm)             | FolkRhythm is an AI-powered digital storytelling platform that breathes new life into India's rich folklore traditions.                           | Reactjs, Supabase, Vite, OpenAI, ElevensLab   |
+| [gitcompat](https://github.com/puri-adityakumar/gitcompat)               | Analyzes GitHub developer compatibility for pair programming                                                                                      | Next.js, TypeScript, Gemini                            |
+| [eBook Lib](https://github.com/puri-adityakumar/eBookLib-RestAPI)        | Backend service for managing an eBook library with user authentication, book management, and file uploads                       | Node.js, Express.js, TypeScript, MongoDB      |
+| [Blogfolio](https://adityawaslost.ninja/)                                | Minimal portfolio-blog webapp using Notion as CMS                                                                                              | Next.js, Framer Motion, Notion API             |
+| [PDFBot](https://github.com/puri-adityakumar/pdfbot)                     | RAG chatbot - full-stack application enabling users to upload PDFs and ask questions about their content in natural language | React.js, FastAPI, WebSocket, Gemini, ChromaDB |
+| [Color Norm](https://github.com/puri-adityakumar/major_project_code_mca) | Final year research project on color normalization techniques for histopathological images                                                     | Python, OpenCV, NumPy                         |
+| [FolkRhythm](https://github.com/puri-adityakumar/folkrhythm)             | AI-powered digital storytelling platform that brings India's rich folklore traditions to life                           | React.js, Supabase, Vite, OpenAI, ElevenLabs   |
 
-## devops
+## ⚙️ devops
 
 | Project                                                         | Description                                                                     | Technologies              |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
-| [Minikube](https://github.com/puri-adityakumar/minikube_nodejs) | A simple Express.js application deployed to Kubernetes using Minikube and Helm. | expressjs, k8s, helmchart |
+| [Minikube](https://github.com/puri-adityakumar/minikube_nodejs) | Express.js application deployed to Kubernetes using Minikube and Helm | Express.js, Kubernetes, Helm Chart |
 
-## misc
+## 🛠️ miscellaneous
 
 | Project                                                                                | Description                                                                                                                             | Technologies                        |
 | -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [authApp](https://github.com/puri-adityakumar/electron-authApp)                        | Full-stack authentication application featuring a desktop client built with Electron and React, and a web component powered by Next.js. | Nextjs, firebase, electronjs        |
-| [text to image diffusion](https://github.com/puri-adityakumar/text_to_image-diffusion) | A customizable tool for generating AI images using diffusion models in Google Colab.                                                    | ipynb, tensorflow, stable diffusion |
-| [BRUTAGRAM](https://github.com/puri-adityakumar/brutagram-social)                      | BRUTAGRAM IS A BRUTALIST SOCIAL MEDIA PLATFORM. IT EMBRACES STARK CONTRASTS, BOLD TYPOGRAPHY, AND RAW FUNCTIONALITY.                    | nodejs, expressjs, ejs, mongodb     |
+| [AuthApp](https://github.com/puri-adityakumar/electron-authApp)                        | Full-stack authentication application with desktop client (Electron + React) and web component (Next.js) | Next.js, Firebase, Electron.js        |
+| [Text-to-Image Diffusion](https://github.com/puri-adityakumar/text_to_image-diffusion) | Customizable tool for generating AI images using diffusion models in Google Colab                                                    | Jupyter Notebook, TensorFlow, Stable Diffusion |
+| [BRUTAGRAM](https://github.com/puri-adityakumar/brutagram-social)                      | Brutalist social media platform embracing stark contrasts, bold typography, and raw functionality                    | Node.js, Express.js, EJS, MongoDB     |
 
 ---
 
@@ -39,11 +39,11 @@
 </div>
 
 <div align="center">
-  <h3><em>"If at first you don't succeed, you're probably debugging."</em></h3>
+  <h3><em>"If at first, you don’t succeed, you must be a programmer."</em></h3>
 </div>
 
 <br>
 
 <div align="center">
-  <em>Thank you, hope my projects helped you in anyway.</em> 🥂
+  <em>Thank you, hope my projects helped you in any way.</em> <img src="assets/pepeheart.png" alt="Cat GIF" width="30">
 </div>
