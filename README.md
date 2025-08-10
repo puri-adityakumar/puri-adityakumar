@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="assets/bigthree.jpg" alt="bigthree" />
+  <img src="assets/bigthree.jpg" alt="bigthree" width="60%" />
 </div>
 
 <div align="center">
