@@ -24,6 +24,14 @@
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
 | [Minikube](https://github.com/puri-adityakumar/minikube_nodejs) | Express.js application deployed to Kubernetes using Minikube and Helm | Express.js, Kubernetes, Helm Chart |
 
+## ⛓️ blockchain (solana)
+
+| Project                                                         | Description                                                                     | Technologies              |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
+| [solana-program](https://github.com/puri-adityakumar/solana-program) | This repository contain all the notes and programs that made during Solana learning sprint | Solana, Rust, Anchor Framework |
+| [datasol](https://github.com/puri-adityakumar/datasol) | Platform for crowdsourcing data labeling tasks | Solana, TypeScript |
+| [depin-project](https://github.com/puri-adityakumar/depin-project) | dpin-uptime is a decentralized uptime monitoring service. It allows for monitoring of website availability and performance, leveraging a network of validators to perform checks and record uptime data. | Solana |
+
 ## 🛠️ miscellaneous
 
 | Project                                                                                | Description                                                                                                                             | Technologies                        |
