@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-   <span style="font-family: monospace;">hi, im aditya</span> <img src="assets/GojoHeart.png" alt="Cat GIF" width="35">
+   <span style="font-family: monospace;">𝚑𝚒, 𝚒𝚖 𝚊𝚍𝚒𝚝𝚢𝚊</span> <img src="assets/GojoHeart.png" alt="Cat GIF" width="35">
   </h1>
   <p>
     <em>about me: 24 years old from India, engineer/developer.</em>
@@ -24,9 +24,9 @@
   <img src="assets/bigthree.jpg" alt="bigthree" width="60%" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h3><em>"If at first, you don’t succeed, you must be a programmer."</em></h3>
-</div>
+</div> -->
 
 <br>
 
