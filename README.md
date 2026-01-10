@@ -1,11 +1,11 @@
 <div align="center">
   <h1>
-   <span style="font-family: monospace;">𝚑𝚒, 𝚒𝚖 𝚊𝚍𝚒𝚝𝚢𝚊</span> <img src="assets/GojoHeart.png" alt="Cat GIF" width="35">
+   <span style="font-family: monospace;">🇭‌🇮‌. 🇮‌🇲‌ 🇦‌🇩‌🇮‌🇹‌🇾‌🇦‌</span>
   </h1>
   <p>
     <em>about me: 24 years old from India, engineer/developer.</em>
   </p>
-  <p><em>proof of work: <a href="https://aditya-builds.notion.site/">you can check my work here!</a></em></p>
+  <p><img src="assets/GojoFingerGuns.png" alt="Cat GIF" width="35"><em>proof of work: <a href="https://aditya-builds.notion.site/">you can check my work here!</a></em></p>
 </div>
 
 ---
