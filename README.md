@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-   <span style="font-family: monospace;">🇭‌🇮‌. 🇮‌🇲‌ 🇦‌🇩‌🇮‌🇹‌🇾‌🇦‌</span>
+   <span style="font-family: monospace;">𝚑𝚒, 𝚒𝚖 𝚊𝚍𝚒𝚝𝚢𝚊</span>
   </h1>
   <p>
     <em>about me: 24 years old from India, engineer/developer.</em>
