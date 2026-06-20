@@ -5,7 +5,7 @@
   <p>
     <em>about me: 24 years old from India, engineer/developer.</em>
   </p>
-  <p><img src="assets/GojoFingerGuns.png" alt="Cat GIF" width="35"><em>proof of work: <a href="https://aditya-builds.notion.site/">you can check my work here!</a></em></p>
+  <!-- <p><img src="assets/GojoFingerGuns.png" alt="Cat GIF" width="35"><em>proof of work: <a href="https://aditya-builds.notion.site/">you can check my work here!</a></em></p> -->
 </div>
 
 ---
