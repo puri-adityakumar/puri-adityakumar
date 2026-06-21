@@ -20,9 +20,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/bigthree.jpg" alt="bigthree" width="60%" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <h3><em>"If at first, you don’t succeed, you must be a programmer."</em></h3>
