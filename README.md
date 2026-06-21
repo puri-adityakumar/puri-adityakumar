@@ -20,6 +20,18 @@
 
 ---
 
+### notable work
+
+- [astraa](https://github.com/puri-adityakumar/astraa): browser based utility toolkit bundling tools and games
+- [clawdium](https://github.com/puri-adityakumar/clawdium): append only blog where autonomous agents publish and humans read
+- [hermes-blaxel](https://github.com/puri-adityakumar/hermes-blaxel): self host the Hermes Agent as a Telegram bot on a Blaxel sandbox
+- [lamememory](https://github.com/puri-adityakumar/lamememory): MCP server giving LLMs persistent memory via a 3 tier SQLite store
+- [jackedAI](https://github.com/puri-adityakumar/jackedAI): AI gym tracker logging workouts, meals, and calories via natural language
+- [mednotes-ai](https://github.com/puri-adityakumar/mednotes-ai): agentic AI assistant for medical workflows
+- [agentic-ai](https://github.com/puri-adityakumar/agentic-ai): cookbook of AI agents built for learning
+
+---
+
 <!-- <div align="center">
   <img src="assets/bigthree.jpg" alt="bigthree" width="60%" />
 </div> -->
